@@ -1,8 +1,8 @@
 
 ###  **Project Name: Lambdha**
-### **This is a simple Bootstarp template.**
+### **This is a simple Html,Css ,Bootstarp template.**
 ### Live:    https://shahreyar46.github.io/Lambdha/
-### **Built With**
+### **Build With**
 
 - HTML5
 
